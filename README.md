@@ -18,13 +18,8 @@
 <br/>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,redux,cs,java,js,nodejs,html,css,mysql,c,postgres,git,linux" />
+    <img src="https://skillicons.dev/icons?i=react,spring,redux,cs,java,js,nodejs,html,css,mysql,c,postgres,git,linux,aws" />
   </a>
 </p>
 
-### 💡 At the moment I'm learning:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,aws,jenkins" />
-  </a>
-</p>
+
