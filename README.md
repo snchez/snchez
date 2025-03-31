@@ -10,7 +10,7 @@
 
 ### 👩🏻‍💻 About Me 
 
-I am a computer engineer specializing in software engineering, with a strong interest in project management and software development.
+I am a computer engineer specialized in software engineering, with a strong interest in project management and software development.
 
 ### 📑 Languages and Tools
 
