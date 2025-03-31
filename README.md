@@ -10,8 +10,7 @@
 
 ### 👩🏻‍💻 About Me 
 
-* I am currently finishing my degree in computer science with a specialization in software engineering.
-* I am interested in project management and software development (I also like design :P).
+I am a computer engineer specializing in software engineering, with a strong interest in project management and software development.
 
 ### 📑 Languages and Tools
 
